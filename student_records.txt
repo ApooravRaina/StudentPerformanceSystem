@@ -1,0 +1,20 @@
+--------------------------------
+Student ID : 101
+Name       : Apoorav Raina
+Age        : 19
+Course     : CSE
+Semester   : 3
+Marks      : {JAVA=88.0, DBMS=82.0, DSA=91.0, MATHS=76.0}
+Average    : 84.25
+Attendance : 85.00%
+--------------------------------
+--------------------------------
+Student ID : 101
+Name       : Raj
+Age        : 20
+Course     : Btech CSE
+Semester   : 3
+Marks      : {JAVA=80.0, DBMS=76.0, ENG=40.0}
+Average    : 65.33
+Attendance : 0.00%
+--------------------------------
